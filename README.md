@@ -1,5 +1,8 @@
 # gostash
-gostash is examples and tutorial-following while learning golang
+gostash is examples and tutorial-following while learning golang.
 
--https://golang.org/doc/code.html
+Sometimes I just commit things from tutorials, Like:
+====================================================
+
+  - https://golang.org/doc/code.html
 
